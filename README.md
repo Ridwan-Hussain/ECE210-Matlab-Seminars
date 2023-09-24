@@ -1,6 +1,6 @@
 Github repository for the Matlab code made during the ECE210 MatLab Seminar taught by Catherine Van West.
 
-Matlab code includes: 
+## Matlab code includes: 
 - Meshgrid
 - Broadcasting
 - Filter Designs
